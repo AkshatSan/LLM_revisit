@@ -1,9 +1,13 @@
 # LLM_revisit
 venv) (base) akshatpandey@Akshats-MacBook-Air llm % /Users/akshatpandey/Documents/llm/venv/bin/python /Users/akshatpandey/Documents/llm/upload_file.py
-Welcome to the QA Assistant. You can upload a Python file for code review or improvement suggestions.
-Enter the path to your Python file (or 'exit' to quit): test.py
+
+# Welcome to the QA Assistant. You can upload a Python file for code review or improvement suggestions.
+
+# Enter the path to your Python file (or 'exit' to quit): test.py
+
+
 Setting `pad_token_id` to `eos_token_id`:32021 for open-end generation.
-QA Assistant: 
+# QA Assistant: 
     You are a highly skilled assistant. You help programmers by suggesting improvements to their code in a clear, actionable, and concise manner.
 
     The following is the code that needs suggestions or improvements:
@@ -32,5 +36,5 @@ def preprocess_data(df):
     2. The function name suggests 'preprocess_data' but it's not clear what the purpose of the function is. It's not clear what the dataframe 'df' is supposed to represent.
 
     3. The function name suggests 'preprocess_data' but it's not clear what the purpose of the function is. It's not clear what
-Enter the path to your Python file (or 'exit' to quit): exit
-Exiting the QA Assistant. Goodbye!
+# Enter the path to your Python file (or 'exit' to quit): exit
+# Exiting the QA Assistant. Goodbye!
