@@ -40,11 +40,12 @@ def preprocess_data(df):
 # Exiting the QA Assistant. Goodbye!
 
 # Scrapping
-Enter the GitHub repository URL: https://github.com/AkshatSan/LLM_revisit
-Enter the folder(s) to scrape (comma-separated): IND_BKY,IND_TDY
-Fetching file: IND_BKY/Messaging/feature.py
+## Enter the GitHub repository URL: https://github.com/AkshatSan/LLM_revisit
+## Enter the folder(s) to scrape (comma-separated): IND_BKY,IND_TDY
+
+`Fetching file: IND_BKY/Messaging/feature.py
 Fetching file: IND_TDY/Messaging/features.py
 Fetching file: IND_TDY/Messaging/model.py
 Fetching file: IND_TDY/allocation/features.py
 Fetching file: IND_TDY/allocation/model.py
-Code has been written to data/combined_code.pdf
+Code has been written to data/combined_code.pdf`
