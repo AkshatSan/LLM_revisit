@@ -38,3 +38,13 @@ def preprocess_data(df):
     3. The function name suggests 'preprocess_data' but it's not clear what the purpose of the function is. It's not clear what
 # Enter the path to your Python file (or 'exit' to quit): exit
 # Exiting the QA Assistant. Goodbye!
+
+# Scrapping
+Enter the GitHub repository URL: https://github.com/AkshatSan/LLM_revisit
+Enter the folder(s) to scrape (comma-separated): IND_BKY,IND_TDY
+Fetching file: IND_BKY/Messaging/feature.py
+Fetching file: IND_TDY/Messaging/features.py
+Fetching file: IND_TDY/Messaging/model.py
+Fetching file: IND_TDY/allocation/features.py
+Fetching file: IND_TDY/allocation/model.py
+Code has been written to data/combined_code.pdf
